@@ -1,12 +1,12 @@
 import React from 'react';
-import './App.css';
+// import './App.css';
 import RedQueen from './Red Queen Race/index';
 
 const App = () =>{
   return(
-    <React.Fragment>
+    <div>
      <RedQueen />
-    </React.Fragment>
+    </div>
   )
 }
 
