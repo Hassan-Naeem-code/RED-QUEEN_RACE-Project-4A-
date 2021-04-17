@@ -122,7 +122,7 @@ const RedQueenRace = () => {
 //   document.addEventListener("touchstart", goFaster);
     return (
        <div>
-            <div className="wrapper">
+            {/* <div className="wrapper">
                 <div className="sky"></div>
                 <div className="earth">
                 <div id="red-queen_and_alice">
@@ -148,7 +148,7 @@ const RedQueenRace = () => {
                 <img id="r_knight" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/r_knight_small.png" srcSet="https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/r_knight.png 2x" alt=" " />
                 <img id="palm2" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/palm2_small.png" srcSet="https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/palm2.png 2x" alt=" " />
         </div>
-      </div>
+      </div> */}
        </div>
     )
 }
